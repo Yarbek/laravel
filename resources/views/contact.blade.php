@@ -1,5 +1,6 @@
+
 @extends("layout")
 
 @section("content")
-    <h1>Salom bu home</h1>
+    <h1>Contact</h1>
 @endsection
